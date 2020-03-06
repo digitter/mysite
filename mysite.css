@@ -249,3 +249,18 @@ footer {
   color: #FAFAFA;
   text-align: center;
 }
+/* <<<<< media queries >>>>> */
+@media(max-width: 768px) {
+  /* settigns */
+  .section-container {
+    width: 90%;
+  }
+  .left-content{
+		float: none;
+		width: 100%;
+	}
+	.right-content{
+		float: none;
+		width: 100%;
+  }
+
