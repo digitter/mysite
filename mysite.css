@@ -175,11 +175,11 @@ portfolio, feature, profile, contact
 	padding: 30px 0 90px 0;
 }
 
-.profile-left-content{
+.left-content{
 	width: 50%;
   float: left;
 }
-.profile-right-content{
+.right-content{
 	width: 50%;
   float: right;
 }
@@ -219,17 +219,9 @@ portfolio, feature, profile, contact
   padding: 30px 0 90px 0;
   margin: 0 auto;
 }
-.left-content {
-  float: left;
-  width: 50%;
-}
 .left-contact-content {
   width: 130px;
   margin: 0 auto;
-}
-.right-content {
-  float: right;
-  width: 50%;
 }
 .right-contact-content {
   width: 290px;
