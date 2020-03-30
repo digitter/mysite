@@ -216,7 +216,7 @@ portfolio, feature, profile, contact
 }
 .contact-content {
   width: 800px;
-  padding: 30px 0 90px 0;
+  padding: 0 0 90px 0;
   margin: 0 auto;
 }
 .left-contact-content {
@@ -248,6 +248,21 @@ footer{
 	color: #FAFAFA;
 	text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* <<<<< media queries >>>>> */
 @media(max-width: 768px) {
